@@ -1,0 +1,11 @@
+# 本地安装的第三方 Agent Skills；仅保留本项目沉淀的 Skill。
+/.agents/skills/*
+!/.agents/skills/northstar-ui-prototype/
+!/.agents/skills/northstar-ui-prototype/**
+
+# 第三方 Skill 的本地来源与哈希锁定信息。
+/skills-lock.json
+
+# 常见本机文件。
+.DS_Store
+Thumbs.db
