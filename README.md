@@ -13,16 +13,14 @@
 
 ## 页面
 
-| 文件 | 用途 |
-| --- | --- |
-| [examples/dashboard.html](examples/dashboard.html) | 验证 Sidebar、工具栏、KPI、图表、活动流与数据表格的信息密度。 |
-| [examples/blog.html](examples/blog.html) | 验证 Blog / Docs 的阅读节奏、文章元数据、代码块与内容层级。 |
-| [examples/components.html](examples/components.html) | 集中展示组件、关键状态、主题和字体实验。 |
-| [examples/mobile.html](examples/mobile.html) | 验证同一视觉语言在移动端任务应用中的适配。 |
+| 文件                                                | 用途                                                          |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| [examples/dashboard.html](examples/dashboard.html)   | 验证 Sidebar、工具栏、KPI、图表、活动流与数据表格的信息密度。 |
+| [examples/blog.html](examples/blog.html)             | 验证 Blog / Docs 的阅读节奏、文章元数据、代码块与内容层级。   |
+| [examples/components.html](examples/components.html) | 集中展示组件、关键状态、主题和字体实验。                      |
+| [examples/mobile.html](examples/mobile.html)         | 验证同一视觉语言在移动端任务应用中的适配。                    |
 
 ## 本地预览
-
-这些页面均可直接在浏览器打开。若需要从同源路径加载本地字体，建议在项目根目录启动静态服务器：
 
 ```powershell
 python -m http.server 8000
@@ -61,3 +59,9 @@ http://127.0.0.1:8000/examples/dashboard.html
 **Clean / Soft / Neutral / Calm / Technical / Refined**
 
 灵感来自轻边界、内容优先和低饱和青蓝的 Blog / Docs 气质，并扩展为适用于 Dashboard、通用 Web App 与移动端的统一原型语言。
+
+## 参考&鸣谢
+
+- (pengzhanbo/vuepress-theme-plume)[https://github.com/pengzhanbo/vuepress-theme-plume]
+- (nextlevelbuilder/ui-ux-pro-max-skill)[https://github.com/nextlevelbuilder/ui-ux-pro-max-skill]
+- (emilkowalski/skills)[https://github.com/emilkowalski/skills]
