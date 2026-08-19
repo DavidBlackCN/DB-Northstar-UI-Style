@@ -1,4 +1,4 @@
 interface:
   display_name: "Northstar UI Prototype"
-  short_description: "Calm, technical HTML UI prototype styling."
-  default_prompt: "Use $northstar-ui-prototype to refine this Northstar-style HTML UI."
+  short_description: "Northstar UI integration and browser verification."
+  default_prompt: "Use $northstar-ui-prototype to integrate Northstar styling into this UI and verify it in the browser."
